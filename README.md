@@ -7,4 +7,4 @@
 - Presentation of the result
 - README.md file.
 ### Notes:
-- Add your teammates names on the description of the pull request
+- Add your teammates names on the description of the pull request or the  README.md
