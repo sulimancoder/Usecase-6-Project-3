@@ -1,6 +1,6 @@
 # Usecase-6-Project-3
 
-- The Final presentation will be on Wednesday.
+- The Final presentation will be on Tuesday.
 - Due Date: Tue, 18 Feb, 10:00 AM.
 ### Final Deliverables:
 - Notebook file(.ipynb).
