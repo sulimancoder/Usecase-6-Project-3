@@ -88,10 +88,10 @@ In this project, we apply various data analysis techniques to gain insights into
 
 
 ## 📋 How to Use This Repository
-
+ you can view the live project online here: [Streamlit Job Postings Data Analysis](https://winners.streamlit.app/))
 1. **Clone or Download**: Clone this repository or download it as a ZIP file to your local machine.
 
    ```bash
    [git clone https://github.com/yourusername/real-estate-analysis.git](https://github.com/sulimancoder/Usecase-6-Project-3.git))
 
-   you can view the live project online here: [Streamlit Job Postings Data Analysis]([https://usecase-5mushal.streamlit.app/#4d75a39d](https://winners.streamlit.app/))
+
