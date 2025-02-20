@@ -88,7 +88,7 @@ In this project, we apply various data analysis techniques to gain insights into
 
 
 ## 📋 How to Use This Repository
- you can view the live project online here: [Streamlit Job Postings Data Analysis](https://winners.streamlit.app/))
+ you can view the live project online here: [Streamlit Job Postings Data Analysis](https://winners.streamlit.app/)
 1. **Clone or Download**: Clone this repository or download it as a ZIP file to your local machine.
 
    ```bash
