@@ -8,4 +8,4 @@ arabic_reshaper
 bidi
 plotly
 streamlit
-plotly-express
+
