@@ -8,4 +8,4 @@ arabic_reshaper
 plotly
 streamlit
 plotly-express
-python-bidi  # If you need bidi-related functionality
+python-bidi  # Replace bidi with python-bidi
