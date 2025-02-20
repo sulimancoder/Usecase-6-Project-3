@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+dtale
+scipy
+arabic_reshaper
+bidi
+plotly
+streamlit
