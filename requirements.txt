@@ -6,5 +6,6 @@ dtale
 scipy
 arabic_reshaper
 bidi
-plotly.express
+plotly
 streamlit
+plotly-express
